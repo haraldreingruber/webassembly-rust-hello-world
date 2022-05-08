@@ -1,4 +1,4 @@
-# WebAssembly Rust hello-world
+# WebAssembly Rust hello-world (WIP)
 
 This example is taken from: https://doc.rust-lang.org/rust-by-example/hello.html
 
