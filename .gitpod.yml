@@ -1,0 +1,4 @@
+tasks:
+  - name: Rust targets
+    init: |
+      rustup target add wasm32-unknown-unknown
